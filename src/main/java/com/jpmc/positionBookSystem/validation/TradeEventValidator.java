@@ -1,7 +1,7 @@
-package com.jpmc.positionBookDystem.validation;
+package com.jpmc.positionBookSystem.validation;
 
-import com.jpmc.positionBookDystem.position.Position;
-import com.jpmc.positionBookDystem.position.TradeEvent;
+import com.jpmc.positionBookSystem.position.Position;
+import com.jpmc.positionBookSystem.position.TradeEvent;
 
 @FunctionalInterface
 public interface TradeEventValidator {

@@ -1,4 +1,4 @@
-package com.jpmc.positionBookDystem.validation;
+package com.jpmc.positionBookSystem.validation;
 
 public class ValidationUtil {
 

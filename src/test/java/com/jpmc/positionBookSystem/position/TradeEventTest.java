@@ -1,4 +1,4 @@
-package com.jpmc.positionBookDystem.position;
+package com.jpmc.positionBookSystem.position;
 
 import org.junit.Rule;
 import org.junit.Test;

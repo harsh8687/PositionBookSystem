@@ -1,8 +1,8 @@
 package com.jpmc.user;
 
-import com.jpmc.positionBookDystem.position.Position;
-import com.jpmc.positionBookDystem.position.PositionBook;
-import com.jpmc.positionBookDystem.position.TradeEvent;
+import com.jpmc.positionBookSystem.position.Position;
+import com.jpmc.positionBookSystem.position.PositionBook;
+import com.jpmc.positionBookSystem.position.TradeEvent;
 
 import java.util.Scanner;
 

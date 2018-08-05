@@ -1,8 +1,8 @@
-package com.jpmc.positionBookDystem.validation;
+package com.jpmc.positionBookSystem.validation;
 
-import com.jpmc.positionBookDystem.position.Position;
-import com.jpmc.positionBookDystem.position.TradeEvent;
-import com.jpmc.positionBookDystem.position.TradeEventType;
+import com.jpmc.positionBookSystem.position.Position;
+import com.jpmc.positionBookSystem.position.TradeEvent;
+import com.jpmc.positionBookSystem.position.TradeEventType;
 
 public class CancelTradeEventValidator implements TradeEventValidator {
 

@@ -1,6 +1,6 @@
-package com.jpmc.positionBookDystem.position;
+package com.jpmc.positionBookSystem.position;
 
-import com.jpmc.positionBookDystem.validation.ValidationUtil;
+import com.jpmc.positionBookSystem.validation.ValidationUtil;
 
 public abstract class Event {
 

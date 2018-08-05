@@ -1,7 +1,7 @@
-package com.jpmc.positionBookDystem.position;
+package com.jpmc.positionBookSystem.position;
 
-import com.jpmc.positionBookDystem.validation.TradeEventValidationHelper;
-import com.jpmc.positionBookDystem.validation.ValidationUtil;
+import com.jpmc.positionBookSystem.validation.TradeEventValidationHelper;
+import com.jpmc.positionBookSystem.validation.ValidationUtil;
 
 import java.util.ArrayList;
 import java.util.List;
